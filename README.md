@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/nitroBanner.png" alt="Nitro Generator Banner" width="600">
+  <img src="./assets/nitro-wumpus.gif" alt="Nitro Generator Banner" width="600">
 </p>
 
 <h2 align="center">🎁 Nitro Gen + Checker</h2>
@@ -11,7 +11,7 @@
 
 ## ⚙️ Requisitos
 
-- Python 3.8+
+- [Python 3.8+](https://www.python.org/downloads/)
 - Instalar as dependências:
 
 ```bash
